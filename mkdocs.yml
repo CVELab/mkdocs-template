@@ -1,0 +1,10 @@
+site_name: Test docs
+site_description: 'A docs test'
+site_author: 'gitworkflows'
+docs_dir: docs/
+repo_name: 'gitworkflows/mkdocs-template'
+repo_url: 'https://github.com/gitworkflows/mkdocs-template'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
